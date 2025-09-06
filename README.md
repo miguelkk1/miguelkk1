@@ -9,7 +9,7 @@ mundo da programação e me apaixonando por isso.
 
 ## 🛠️ Tecnologias e Ferramentas
 - **Linguagens**: Python, JavaScript
-- **Web**: HTML5, CSS3, Node.js  
+- **Web**: HTML5 e CSS3
 
 
 ---
