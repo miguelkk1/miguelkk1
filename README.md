@@ -15,7 +15,7 @@ mundo da programação e me apaixonando por isso.
 ---
 
 ## 📌 Alguns projetos que fiz
-- [**Site com todos os meus projetos em python**](link-do-repo) – Projetos simples para praticar algoritmos  
+- [**Site com todos os meus projetos em python**](https://miguelkk1.github.io/organizacao-proj/)
 
 ---
 
