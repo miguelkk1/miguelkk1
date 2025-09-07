@@ -14,9 +14,9 @@ mundo da programação e me apaixonando por isso.
 
 ---
 
-## 📌 Projetos em Destaque
-🔹 [**Portfólio Pessoal**](link-do-repo) – Página web sobre mim usando HTML e CSS
-🔹 [**Exercícios de Lógica em Python**](link-do-repo) – Projetos simples para praticar algoritmos  
+## 📌 Alguns projetos que fiz
+- [**Portfólio Pessoal**]((https://github.com/miguelkk1/trabalho-ads)) – Página web sobre mim usando HTML e CSS
+- [**Exercícios de Lógica em Python**](link-do-repo) – Projetos simples para praticar algoritmos  
 
 ---
 
